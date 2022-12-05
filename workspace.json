@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "react-one": "apps/react-one",
+    "react-one-e2e": "apps/react-one-e2e",
+    "react-two": "apps/react-two",
+    "react-two-e2e": "apps/react-two-e2e",
+    "ui": "libs/ui"
+  }
+}
